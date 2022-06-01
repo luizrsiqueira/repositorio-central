@@ -7,7 +7,8 @@ public class Livro {
 	public void emprestar() {
 		
 	}
-
+	private String numPaginas;
+	private String autor;
 	public void devolver() {
 		
 	}
